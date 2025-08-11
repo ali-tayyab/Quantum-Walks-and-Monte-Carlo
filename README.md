@@ -8,7 +8,7 @@ This project demonstrates the simulation of a Quantum Galton Board (QGB) using q
 
 - Submitted as an individual project  
 - Team: Alone (Individual Submission)  
-- Program: WOMANIUm and WISER Quantum Program Scholars
+- Program: WOMANIUM and WISER Quantum Program 2025
 
 ## References
 
