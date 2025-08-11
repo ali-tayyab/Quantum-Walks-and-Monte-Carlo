@@ -14,12 +14,7 @@ This project demonstrates the simulation of a Quantum Galton Board (QGB) using q
 
 - The algorithm and theoretical framework used in this project are inspired by the concept of the **Universal Statistical Simulator**, which explores how quantum devices can efficiently simulate classical and quantum statistical processes with advantages in speed and complexity.  
 - For detailed reading, see:  
-  *Universal Statistical Simulator*, [@article{carney2022universal,
-  title={Universal Statistical Simulator},
-  author={Carney, Mark and Varcoe, Ben},
-  journal={arXiv preprint arXiv:2202.01735},
-  year={2022}
-}]
+  *Universal Statistical Simulator* [(https://arxiv.org/abs/2202.01735)]
 
 ## Technologies Used
 
