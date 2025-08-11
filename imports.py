@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.stats import entropy
+from scipy.stats import entropy, norm
 from collections import Counter
 import qiskit
 from qiskit import QuantumCircuit, transpile, ClassicalRegister, QuantumRegister
